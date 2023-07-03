@@ -11,7 +11,10 @@ with col1:
 
 with col2:
     sl.title("Sanjhee Gupta")
-    abt_me = "Hello! I am Sajhee, a sophomore studying Computer Science and Data Science at Pudrdue University"
+    abt_me = "Hello! I am Sanjhee, a sophomore studying Computer Science and Data Science at Purdue University! I " \
+             "love to paint, bake, read books, and cry my eyes out to romcoms. I am also a member of the BoilerMake " \
+             "executive board, and am a TA for TDM101 for Data Mine at Purdue. I enjoy teaching! I aspire to write " \
+             "code that helps find solutions the world is currently facing "
     sl.info(abt_me)
 
 # apps
